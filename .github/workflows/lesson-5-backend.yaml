@@ -1,5 +1,5 @@
 name: Lesson 5 SAST
-#trigger workflow
+#trigger run
 on:
   push:
     branches:
